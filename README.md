@@ -8,4 +8,5 @@
 05. Tableau/Looker
 06. SSRS - SQL Server Reporting Services
 07. SSAS - SQL Server Analysis Services
+08. Google data studio
 
